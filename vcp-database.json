@@ -1640,5 +1640,47 @@
             "updatedAt": "2023-06-19T23:50:31.399Z",
             "productCategory_id": 10
         }
+    ],
+    "details": [
+        {
+            "id": 1,
+            "detailName": "détail1 boeuf",
+            "imageDetailUrl": "https://files.fm/thumb_show.php?i=dcpzxvv2p",
+            "createdAt": "2023-06-22T01:17:19.496Z",
+            "updatedAt": "2023-06-22T01:17:19.496Z",
+            "product_id": 53
+        },
+        {
+            "id": 2,
+            "detailName": "détail2 boeuf",
+            "imageDetailUrl": "https://files.fm/thumb_show.php?i=as88f4dsq",
+            "createdAt": "2023-06-22T01:18:48.324Z",
+            "updatedAt": "2023-06-22T01:18:48.324Z",
+            "product_id": 53
+        },
+        {
+            "id": 3,
+            "detailName": "détail3 boeuf",
+            "imageDetailUrl": "https://files.fm/thumb_show.php?i=acka7eepk",
+            "createdAt": "2023-06-22T01:19:34.899Z",
+            "updatedAt": "2023-06-22T01:19:34.899Z",
+            "product_id": 53
+        },
+        {
+            "id": 5,
+            "detailName": "détail5 boeuf",
+            "imageDetailUrl": "https://files.fm/thumb_show.php?i=4mp22vs3p",
+            "createdAt": "2023-06-22T01:21:14.615Z",
+            "updatedAt": "2023-06-22T01:21:14.615Z",
+            "product_id": 53
+        },
+        {
+            "id": 4,
+            "detailName": "détail4 boeuf",
+            "imageDetailUrl": "https://files.fm/thumb_show.php?i=xceqdxwyj",
+            "createdAt": "2023-06-22T01:20:18.018Z",
+            "updatedAt": "2023-06-22T01:21:55.600Z",
+            "product_id": 53
+        }
     ]
 }
